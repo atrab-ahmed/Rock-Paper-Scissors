@@ -32,7 +32,7 @@ while tries>0:
             print("Computer scored 1 point")
     
     elif Usre_Choise == "paper":
-        if Computer_Choise == "scissors":
+        if Computer_Choise == "rock":
             user_score+=1
             print("You scored 1 point")
         else:
